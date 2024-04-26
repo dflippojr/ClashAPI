@@ -23,6 +23,7 @@ public class DeckOfCards {
         // Attributes
         private final String suit;
         private final String rank;
+        // rank value used for sorting
         private final int rankValue;
         
         // Constructor
